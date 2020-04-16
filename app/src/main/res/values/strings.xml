@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Example1</string>
+    <string name="Author">Books Request\nName(or) Author.</string>
+</resources>
